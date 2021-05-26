@@ -1,7 +1,5 @@
 # AVSD-DSTC10
 Audio Visual Scene-Aware Dialog (AVSD) Challenge at the 10th Dialog System Technology Challenge (DSTC)
-
-# DSTC10
 https://sites.google.com/dstc.community/dstc10
 
 # Challenge schedule
