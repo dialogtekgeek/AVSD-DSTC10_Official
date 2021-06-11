@@ -26,10 +26,10 @@ https://sites.google.com/dstc.community/dstc10
 #### Validation data set:
 
 Please train models using the training data set only.
-You can tune the parameters using the validation set and confirm the performance of your systems using the DSTC7 test sets.
-Notes: The official challenge doesn't allow you to use the DSTC7 test set to tune your models.
+You can tune the parameters using the validation set and confirm the performance of your systems using the DSTC10 test sets.
+Notes: The official challenge doesn't allow you to use the DSTC10 test set to tune your models.
 
-|               |    Training    |  Validation   |   DSTC7 Test  |
+|               |    Training    |  Validation   |   DSTC10 Test  |
 | ------------- | -------------- | ------------- | ------------- |
 | # of Dialogs  |       7,659    |      1,787    |      1,710    |   
 | # of Turns    |     153,180    |     35,740    |     13,490    |
@@ -38,37 +38,44 @@ Notes: The official challenge doesn't allow you to use the DSTC7 test set to tun
 *The number of turns for the test set is smaller than the validation
 because they are not always full dialogs.
 
-You can download the full official data set and the references for AVSD@DSTC7 from here:
+You can download the full official data set and the references for AVSD@DSTC10 from here:
 https://drive.google.com/drive/folders/1SlZTySJAk_2tiMG5F8ivxCfOl_OWwd_Q?usp=sharing
 
 1. **Text files:**
-     - train_set4DSTC7-AVSD.json
-     - valid_set4DSTC7-AVSD.json
-     - test_set4DSTC7-AVSD.json
+     - train_set4DSTC10-AVSD.json
+     - valid_set4DSTC10-AVSD.json
+     - test_set4DSTC10-AVSD.json
+
+Training text files - Contains summary, caption, question answer pairs, action with its timestamps. 
+Validation text files - contains question answer pairs
+Test text files - contains question answer pairs
 
 2. **Audio feature files:**
    - Training and validation data sets
      - vggish.tgz 
-   - DSTC7 test set:
+   - DSTC10 test set:
      - vggish_testset.tgz: 
 
 3. **Visual feature files:**
    - Training and validation data sets:
      - i3d_flow.tgz 
      - i3d_rgb.tgz
-   - DSTC7 test set:
+   - DSTC10 test set:
      - i3d_flow_testset.tgz
      - i3d_rgb_testset.tgz
 
-4. **DSTC7 evaluation setup**
-   - dstc7avsd_eval.tgz
+4. **DSTC10 evaluation setup**
+   - dstc10avsd_eval.tgz
 
 
 Although a new baseline system will be released soon, the old one is available from the following link:
 https://github.com/dialogtekgeek/AudioVisualSceneAwareDialog
 
 You can find more information in the following DSTC7-AVSD overview paper:
-http://workshop.colips.org/dstc7/papers/DSTC7_Task_3_overview_paper.pdf
+http://workshop.colips.org/dstc7/papers/DSTC10_Task_3_overview_paper.pdf
+
+You can find more information in the following DSTC10-AVSD overview paper:
+https://drive.google.com/file/d/1Di_BbKZrigp3auma4qKtIgVsdgsniOrs/view
 
 ### - Contact Information
-chori@merl.com
+chori@merl.com & aps1@andrew.cmu.edu
