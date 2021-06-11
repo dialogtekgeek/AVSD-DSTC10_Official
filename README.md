@@ -41,12 +41,10 @@ because they are not always full dialogs.
 You can download the full official data set and the references for AVSD@DSTC10 from here:
 https://drive.google.com/drive/folders/1SlZTySJAk_2tiMG5F8ivxCfOl_OWwd_Q?usp=sharing
 
-1. **Text files:**
-     - train_set4DSTC10-AVSD.json
-     
-     - valid_set4DSTC10-AVSD.json
-     
-     - test_set4DSTC10-AVSD.json
+### 1. Text files:
+* train_set4DSTC10-AVSD.json
+* valid_set4DSTC10-AVSD.json
+* test_set4DSTC10-AVSD.json
 
 Training text files - Contains summary, caption, question answer pairs, action with its timestamps. 
 
@@ -54,14 +52,11 @@ Validation text files - contains question answer pairs
 
 Test text files - contains question answer pairs
 
-2. **Audio feature files:**
-   - Training and validation data sets
-     
-     - vggish.tgz 
-     
-   - DSTC10 test set:
-     
-     - vggish_testset.tgz: 
+### 2. Audio feature files:**
+* Training and validation data sets  
+   * vggish.tgz 
+* DSTC10 test set:
+   * vggish_testset.tgz: 
 
 3. **Visual feature files:**
    - Training and validation data sets:
