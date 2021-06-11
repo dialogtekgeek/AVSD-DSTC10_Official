@@ -43,26 +43,38 @@ https://drive.google.com/drive/folders/1SlZTySJAk_2tiMG5F8ivxCfOl_OWwd_Q?usp=sha
 
 1. **Text files:**
      - train_set4DSTC10-AVSD.json
+     
      - valid_set4DSTC10-AVSD.json
-     - test_set4DSTC10-AVSD.json
+     
+     - test_set4DSTC10-AVSD.json
 
 Training text files - Contains summary, caption, question answer pairs, action with its timestamps. 
+
 Validation text files - contains question answer pairs
+
 Test text files - contains question answer pairs
 
 2. **Audio feature files:**
    - Training and validation data sets
-     - vggish.tgz 
+     
+     - vggish.tgz 
+     
    - DSTC10 test set:
-     - vggish_testset.tgz: 
+     
+     - vggish_testset.tgz: 
 
 3. **Visual feature files:**
    - Training and validation data sets:
-     - i3d_flow.tgz 
-     - i3d_rgb.tgz
+     
+     - i3d_flow.tgz 
+     
+     - i3d_rgb.tgz
+   
    - DSTC10 test set:
-     - i3d_flow_testset.tgz
-     - i3d_rgb_testset.tgz
+   
+     - i3d_flow_testset.tgz
+     
+     - i3d_rgb_testset.tgz
 
 4. **DSTC10 evaluation setup**
    - dstc10avsd_eval.tgz
