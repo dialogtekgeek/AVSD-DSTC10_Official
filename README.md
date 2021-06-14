@@ -66,7 +66,17 @@ Notes: The official challenge doesn't allow you to use the DSTC10 test set to tu
 because they are not always full dialogs.
 
 You can download the full official data set and the references for AVSD@DSTC10 from here:
-https://drive.google.com/drive/folders/1SlZTySJAk_2tiMG5F8ivxCfOl_OWwd_Q?usp=sharing
+
+```
+[Annotation Data Download here](https://github.com/dialogtekgeek/AVSD-DSTC10_Official/blob/main/AnswerGeneration_NoManualDescription_06_14_2021.zip) 
+
+OR
+
+You can do a git clone of this repository
+git clone https://github.com/dialogtekgeek/AVSD-DSTC10_Official/ and then 
+cd AVSD-DSTC10_Official/
+unzip AnswerGeneration_NoManualDescription_06_14_2021.zip
+```
 
 ### 1. Text files:
 * train_set4DSTC10-AVSD.json
