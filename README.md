@@ -10,7 +10,8 @@
     the system needs to learn to produce the answers without the captions. 
     To encourage progress towards this end, we propose a third challenge
     in DSTC10 under the video-based scene-aware dialog track. 
-    To support answers, evidence needs to be shown 
+    To support answers, evidence needs to be finded by answer generation systems.
+    The temporal localization for answers needs to be detected in DSTC10.
     
 ## Challenge schedule
     June 14th, 2021: Answer generation data release
