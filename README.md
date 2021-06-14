@@ -67,11 +67,11 @@ because they are not always full dialogs.
 
 You can download the full official data set and the references for AVSD@DSTC10 from here:
 
-```
 [Annotation Data Download here](https://github.com/dialogtekgeek/AVSD-DSTC10_Official/blob/main/AnswerGeneration_NoManualDescription_06_14_2021.zip) 
 
 OR
 
+```
 You can do a git clone of this repository
 git clone https://github.com/dialogtekgeek/AVSD-DSTC10_Official/ and then 
 cd AVSD-DSTC10_Official/
