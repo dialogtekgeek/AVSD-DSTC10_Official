@@ -1,4 +1,6 @@
-# AVSD-DSTC10 Official: Reasoning for Audio Visual Scene-Aware Dialog
+# AVSD-DSTC10 Official
+Reasoning for Audio Visual Scene-Aware Dialog
+
 Audio Visual Scene-Aware Dialog (AVSD) Challenge at the 10th Dialog System Technology Challenge (DSTC)
 https://sites.google.com/dstc.community/dstc10
 
