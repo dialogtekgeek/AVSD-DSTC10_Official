@@ -1,6 +1,6 @@
 # AVSD-DSTC10 Official
   Audio Visual Scene-Aware Dialog (AVSD) Challenge at the 10th Dialog System Technology Challenge (DSTC)
-  https://sites.google.com/dstc.community/dstc10
+  [https://sites.google.com/dstc.community/dstc10](https://sites.google.com/dstc.community/dstc10)
 
 ## Goal: Reasoning for Audio Visual Scene-Aware Dialog
 
@@ -89,12 +89,18 @@ Validation text files - contains question answer pairs
 Test text files - contains question answer pairs
 
 ### 2. Audio feature files:**
+
+[Download Audio features for AVSD-DSTC10 Here](https://drive.google.com/drive/folders/12Ri617jeV1XfMjcDQf5camyRXGrVW5u3?usp=sharing)
+
 * Training and validation data sets  
    * vggish.tgz 
 * DSTC10 test set:
    * vggish_testset.tgz: 
 
 3. **Visual feature files:**
+
+[Download Visual features for AVSD-DSTC10 Here](https://drive.google.com/drive/folders/12R7OtjcXAgxZiFi2fOSG8miFiqi0ewL2?usp=sharing)
+
    - Training and validation data sets:
      
      - i3d_flow.tgz 
