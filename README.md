@@ -118,7 +118,7 @@ Mock Test text file from DSTC8 (mock_test_set4DSTC10-AVSD_from_DSTC8.json) - con
 
 ### 4. DSTC10 evaluation setup
 
-[Download DSTC7 Evaluation for mock test set Here](.)
+[Download DSTC7 Evaluation for mock test set Here](https://drive.google.com/file/d/19Jmm4HNXSwcg-sL7jktlCalakPCIhnxm/view?usp=sharing )
 
 - dstc7avsd_eval.tgz
 
