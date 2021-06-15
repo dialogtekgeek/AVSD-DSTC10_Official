@@ -64,7 +64,7 @@ Notes: The official challenge doesn't allow you to use the DSTC10 test set to tu
 *The number of turns for the test set is smaller than the validation
 because they are not always full dialogs.
 
-You can download the full official data set and the references for AVSD@DSTC10 from here:
+You can download annotations set and the references for AVSD@DSTC10 from here:
 
 [Annotation Data Download here](https://github.com/dialogtekgeek/AVSD-DSTC10_Official/blob/main/AnswerGeneration_NoManualDescription_06_14_2021.zip) 
 
@@ -79,16 +79,24 @@ unzip AnswerGeneration_NoManualDescription_06_14_2021.zip
 
 ### 1. Text files:
 * train_set4DSTC10-AVSD.json
+* valid_set4DSTC10-AVSD_with_action.json
 * valid_set4DSTC10-AVSD.json
-* test_set4DSTC10-AVSD.json
+* mock_test_set4DSTC10-AVSD_from_DSTC7.json
+* mock_test_set4DSTC10-AVSD_from_DSTC8.json
 
-Training text files - Contains summary, caption, question answer pairs, action with its timestamps. 
+```
+Training text files (train_set4DSTC10-AVSD.json) - Contains summary, caption, question answer pairs, action with its timestamps. 
 
-Validation text files - contains question answer pairs
+Validation text file (valid_set4DSTC10-AVSD_with_action.json) - contains question answer pairs, action with its timestamps. 
 
-Test text files - contains question answer pairs
+Validation text file (valid_set4DSTC10-AVSD.json) - contains question answer pairs 
 
-### 2. Audio feature files:**
+Mock Test text file from DSTC7 (mock_test_set4DSTC10-AVSD_from_DSTC7.json) - contains question answer pairs only from DSTC7-test set
+
+Mock Test text file from DSTC8 (mock_test_set4DSTC10-AVSD_from_DSTC8.json) - contains question answer pairs only from DSTC8-test set
+```
+
+### 2. Audio feature files:
 
 [Download Audio features for AVSD-DSTC10 Here](https://drive.google.com/drive/folders/12Ri617jeV1XfMjcDQf5camyRXGrVW5u3?usp=sharing)
 
@@ -97,24 +105,22 @@ Test text files - contains question answer pairs
 * DSTC10 test set:
    * vggish_testset.tgz: 
 
-3. **Visual feature files:**
+### 3. Visual feature files:
 
 [Download Visual features for AVSD-DSTC10 Here](https://drive.google.com/drive/folders/12R7OtjcXAgxZiFi2fOSG8miFiqi0ewL2?usp=sharing)
 
-   - Training and validation data sets:
-     
-     - i3d_flow.tgz 
-     
-     - i3d_rgb.tgz
-   
-   - DSTC10 test set:
-   
-     - i3d_flow_testset.tgz
-     
-     - i3d_rgb_testset.tgz
+- Training and validation data sets:   
+  - i3d_flow.tgz 
+  - i3d_rgb.tgz
+- DSTC10 test set:
+  - i3d_flow_testset.tgz
+  - i3d_rgb_testset.tgz
 
-4. **DSTC10 evaluation setup**
-   - dstc10avsd_eval.tgz
+### 4. DSTC10 evaluation setup
+
+[Download DSTC7 Evaluation for mock test set Here](.)
+
+- dstc7avsd_eval.tgz
 
 
 Although a new baseline system will be released soon, the old one is available from the following link:
@@ -127,4 +133,8 @@ You can find more information in the following DSTC10-AVSD overview paper:
 https://drive.google.com/file/d/1Di_BbKZrigp3auma4qKtIgVsdgsniOrs/view
 
 ### - Contact Information
-chori@merl.com & aps1@andrew.cmu.edu
+[Chiori Hori](chori@merl.com) & [Ankit Shah](aps1@andrew.cmu.edu)
+
+### Task Organizers
+
+Ankit Shah, Shijie Geng, Peng Gao, Anoop Cherian Chiori Hori and Tim K. Marks
