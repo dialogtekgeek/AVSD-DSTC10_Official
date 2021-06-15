@@ -40,10 +40,10 @@
     Goal: Answer reasoning temoporal Localization 
 
     To support answers needs to shown without using manual
-    descriptions. When a system answer “A dog is barking.”, The sound of the dog’s barking or
-    the image of the dog should be provided/highlighted/attended as evidence.
-    (a) Using the provided video, QA and manual description training data and additional
-    Please generate answers and find audio visual evidences for the answers 
+    descriptions. When a system answer “A dog is barking.”, the sound of the dog’s barking and
+    the image of the dog should be provided as evidence.
+    The localization of audiovisual evidence is required for each generated answers.
+    The time stamp of evidences will be provided.
 
     Data conditions:
     a. Temporal localization information for answer reasoning is provided as begin and end timestamps showing evidence scenes
@@ -68,24 +68,19 @@ Please review the following information on how to download annotations set, feat
 
 ### 1. Text files:
 
-* **train_set4DSTC10-AVSD.json** 
-   
+* **train_set4DSTC10-AVSD.json**
   Training text files (train_set4DSTC10-AVSD.json) - Contains summary, caption, question answer pairs, action with its timestamps. 
-
+   
 * **valid_set4DSTC10-AVSD_with_action.json**
-
   Validation text file (valid_set4DSTC10-AVSD_with_action.json) - contains question answer pairs, action with its timestamps.
  
 * **valid_set4DSTC10-AVSD.json**
-
   Validation text file (valid_set4DSTC10-AVSD.json) - contains question answer pairs 
  
 * **mock_test_set4DSTC10-AVSD_from_DSTC7.json**
-
   Mock Test text file from DSTC7 (mock_test_set4DSTC10-AVSD_from_DSTC7.json) - contains question answer pairs only from DSTC7-test set
 
 * **mock_test_set4DSTC10-AVSD_from_DSTC8.json**
-
   Mock Test text file from DSTC8 (mock_test_set4DSTC10-AVSD_from_DSTC8.json) - contains question answer pairs only from DSTC8-test set
   
 [Annotation Data Download here](https://github.com/dialogtekgeek/AVSD-DSTC10_Official/blob/main/AnswerGeneration_NoManualDescription_06_14_2021.zip) 
