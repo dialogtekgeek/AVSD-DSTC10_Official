@@ -39,10 +39,10 @@
 #### Task 2: Grounding Video QA dialog
     Goal: Answer reasoning temoporal Localization 
 
-To support answers needs to shown without using manual
-descriptions. When a system answer “A dog is barking.”, The sound of the dog’s barking or
-the image of the dog should be provided/highlighted/attended as evidence.
-(a) Using the provided video, QA and manual description training data and additional
+    To support answers needs to shown without using manual
+    descriptions. When a system answer “A dog is barking.”, The sound of the dog’s barking or
+    the image of the dog should be provided/highlighted/attended as evidence.
+    (a) Using the provided video, QA and manual description training data and additional
     Please generate answers and find audio visual evidences for the answers 
 
     Data conditions:
