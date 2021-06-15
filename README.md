@@ -132,6 +132,12 @@ http://workshop.colips.org/dstc7/papers/DSTC10_Task_3_overview_paper.pdf
 You can find more information in the following DSTC10-AVSD overview paper:
 https://drive.google.com/file/d/1Di_BbKZrigp3auma4qKtIgVsdgsniOrs/view
 
+Links to the previous related AVSD track in DSTC7 and DSTC8 challenge: 
+
+[AVSD DSTC7 GitHub link](https://github.com/hudaAlamri/DSTC7-Audio-Visual-Scene-Aware-Dialog-AVSD-Challenge)
+
+[AVSD DSTC8 GitHub Link](https://github.com/dialogtekgeek/DSTC8-AVSD_official)
+
 ### - Contact Information
 [Chiori Hori](chori@merl.com) & [Ankit Shah](aps1@andrew.cmu.edu)
 
