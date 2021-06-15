@@ -48,9 +48,9 @@
     Data conditions:
     a. Temporal localization information for answer reasoning is provided as begin and end timestamps showing evidence scenes
     b. Any publicly available data and pre-trained models may also be used for training as a sub task.
-    
+ 
+##### Data Collection Method for Reasoning
 ![Data Collection Method for Reasoning](https://github.com/dialogtekgeek/AVSD-DSTC10_Official/blob/main/Instruction_for_Reasoning.png "Data Collection Method for Reasoning")
-##### Data Collection Method for Reasoning   
 
 #### Validation data set:
 
