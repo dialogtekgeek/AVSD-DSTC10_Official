@@ -39,11 +39,11 @@
 #### Task 2: Grounding Video QA dialog
     Goal: Answer reasoning temporal Localization 
 
-    To support answers needs to shown without using manual
-    descriptions. When a system answer “A dog is barking.”, the sound of the dog’s barking and
+    To support answers needs to be shown without using manual descriptions. 
+    When a system answer “A dog is barking.”, the sound of the dog’s barking and
     the image of the dog should be provided as evidence.
     The localization of audiovisual evidence is required for each generated answers.
-    The time stamp of evidences for the training data will be provided.
+    To train reasoning localization, begin and end timing of evidences will be additionally provided for the training data.
 
     Data conditions:
     a. Temporal localization information for answer reasoning is provided as begin and end timestamps showing evidence scenes
