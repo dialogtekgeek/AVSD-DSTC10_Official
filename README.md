@@ -82,14 +82,18 @@ unzip AnswerGeneration_NoManualDescription_06_14_2021.zip
 
 #### Contents 
 
-* train_set4DSTC10-AVSD.json
+* train_set4DSTC10-AVSD.json:
+
+  Training text files (train_set4DSTC10-AVSD.json) - Contains summary, caption, question answer pairs, action with its timestamps. 
+   
 * valid_set4DSTC10-AVSD_with_action.json
+ 
 * valid_set4DSTC10-AVSD.json
 * mock_test_set4DSTC10-AVSD_from_DSTC7.json
 * mock_test_set4DSTC10-AVSD_from_DSTC8.json
 
 
-Training text files (train_set4DSTC10-AVSD.json) - Contains summary, caption, question answer pairs, action with its timestamps. 
+
 
 Validation text file (valid_set4DSTC10-AVSD_with_action.json) - contains question answer pairs, action with its timestamps. 
 
