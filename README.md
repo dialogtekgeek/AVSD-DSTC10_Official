@@ -66,8 +66,6 @@ because they are not always full dialogs.
 
 You can download annotations set and the references for AVSD@DSTC10 from here:
 
-```
-
 ### 1. Text files:
 
 
@@ -80,8 +78,9 @@ You can do a git clone of this repository
 git clone https://github.com/dialogtekgeek/AVSD-DSTC10_Official/ and then 
 cd AVSD-DSTC10_Official/
 unzip AnswerGeneration_NoManualDescription_06_14_2021.zip
+```
 
-Contents 
+#### Contents 
 
 * train_set4DSTC10-AVSD.json
 * valid_set4DSTC10-AVSD_with_action.json
@@ -89,7 +88,7 @@ Contents
 * mock_test_set4DSTC10-AVSD_from_DSTC7.json
 * mock_test_set4DSTC10-AVSD_from_DSTC8.json
 
-```
+
 Training text files (train_set4DSTC10-AVSD.json) - Contains summary, caption, question answer pairs, action with its timestamps. 
 
 Validation text file (valid_set4DSTC10-AVSD_with_action.json) - contains question answer pairs, action with its timestamps. 
