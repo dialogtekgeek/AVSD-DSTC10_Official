@@ -146,7 +146,7 @@ Links to the previous related AVSD track in DSTC7 and DSTC8 challenge:
 
 
 ### - Contact Information
-[Chiori Hori](chori@merl.com) & [Ankit Shah](aps1@andrew.cmu.edu)
+[Chiori Hori](mailto:chori@merl.com) & [Ankit Shah](mailto:aps1@andrew.cmu.edu)
 
 ### Task Organizers
 
