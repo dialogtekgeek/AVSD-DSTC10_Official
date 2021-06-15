@@ -68,6 +68,15 @@ You can download annotations set and the references for AVSD@DSTC10 from here:
 
 ### 1. Text files:
 
+* train_set4DSTC10-AVSD.json:
+
+  Training text files (train_set4DSTC10-AVSD.json) - Contains summary, caption, question answer pairs, action with its timestamps. 
+   
+* valid_set4DSTC10-AVSD_with_action.json
+ 
+* valid_set4DSTC10-AVSD.json
+* mock_test_set4DSTC10-AVSD_from_DSTC7.json
+* mock_test_set4DSTC10-AVSD_from_DSTC8.json
 
 [Annotation Data Download here](https://github.com/dialogtekgeek/AVSD-DSTC10_Official/blob/main/AnswerGeneration_NoManualDescription_06_14_2021.zip) 
 
@@ -80,17 +89,7 @@ cd AVSD-DSTC10_Official/
 unzip AnswerGeneration_NoManualDescription_06_14_2021.zip
 ```
 
-#### Contents 
 
-* train_set4DSTC10-AVSD.json:
-
-  Training text files (train_set4DSTC10-AVSD.json) - Contains summary, caption, question answer pairs, action with its timestamps. 
-   
-* valid_set4DSTC10-AVSD_with_action.json
- 
-* valid_set4DSTC10-AVSD.json
-* mock_test_set4DSTC10-AVSD_from_DSTC7.json
-* mock_test_set4DSTC10-AVSD_from_DSTC8.json
 
 
 
