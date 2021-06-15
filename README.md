@@ -105,7 +105,7 @@ unzip AnswerGeneration_NoManualDescription_06_14_2021.zip
 
 * Training and validation data sets  
    * vggish.tgz 
-* DSTC10 test set:
+* Test set:
    * vggish_testset.tgz: 
 
 ### 3. Visual feature files:
@@ -115,7 +115,7 @@ unzip AnswerGeneration_NoManualDescription_06_14_2021.zip
 - Training and validation data sets:   
   - i3d_flow.tgz 
   - i3d_rgb.tgz
-- DSTC10 test set:
+- Test set:
   - i3d_flow_testset.tgz
   - i3d_rgb_testset.tgz
 
