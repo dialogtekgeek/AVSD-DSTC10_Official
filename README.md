@@ -37,7 +37,7 @@
     b. Publicly available external data and pre-trained models may also be used for training as a sub task
 
 #### Task 2: Grounding Video QA dialog
-    Goal: Answer reasoning temoporal Localization 
+    Goal: Answer reasoning temporal Localization 
 
     To support answers needs to shown without using manual
     descriptions. When a system answer “A dog is barking.”, the sound of the dog’s barking and
@@ -48,7 +48,10 @@
     Data conditions:
     a. Temporal localization information for answer reasoning is provided as begin and end timestamps showing evidence scenes
     b. Any publicly available data and pre-trained models may also be used for training as a sub task.
-    
+    
+![Data Collection Method for Reasoning](https://github.com/dialogtekgeek/AVSD-DSTC10_Official/blob/main/Instruction_for_Reasoning.png "Data Collection Method for Reasoning")
+##### Data Collection Method for Reasoning   
+
 #### Validation data set:
 
 Please train models using the training data set only.
