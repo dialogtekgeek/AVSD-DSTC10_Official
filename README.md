@@ -17,8 +17,8 @@
 
     June 14th, 2021: Answer generation data release
     June 30th, 2021: Answer reasoning temporal localization data and baseline release
-   **releasing to registrants only**
-    
+   **Releasing answer reasoning to registrants only for**
+  
     September 13th, 2021: Test Data release
     September 21st 2021: Test Submission due
     November 1st 2021: Challenge paper submission due
