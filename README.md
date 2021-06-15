@@ -43,7 +43,7 @@
     descriptions. When a system answer “A dog is barking.”, the sound of the dog’s barking and
     the image of the dog should be provided as evidence.
     The localization of audiovisual evidence is required for each generated answers.
-    The time stamp of evidences will be provided.
+    The time stamp of evidences for the training data will be provided.
 
     Data conditions:
     a. Temporal localization information for answer reasoning is provided as begin and end timestamps showing evidence scenes
