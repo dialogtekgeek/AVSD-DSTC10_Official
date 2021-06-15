@@ -47,7 +47,7 @@
 
     Data conditions:
     a. Temporal localization information for answer reasoning is provided as begin and end timestamps showing evidence scenes
-    b. Any publicly available data and pre-trained models may also be used for training as a sub task.
+    b. Any publicly available data and pre-trained models may also be used for training as a sub task.
     
 #### Validation data set:
 
@@ -68,23 +68,23 @@ Please review the following information on how to download annotations set, feat
 
 ### 1. Text files:
 
-* train_set4DSTC10-AVSD.json:
+* **train_set4DSTC10-AVSD.json**:
 
   Training text files (train_set4DSTC10-AVSD.json) - Contains summary, caption, question answer pairs, action with its timestamps. 
    
-* valid_set4DSTC10-AVSD_with_action.json
+* **valid_set4DSTC10-AVSD_with_action.json**
 
   Validation text file (valid_set4DSTC10-AVSD_with_action.json) - contains question answer pairs, action with its timestamps.
  
-* valid_set4DSTC10-AVSD.json
+* **valid_set4DSTC10-AVSD.json**
 
   Validation text file (valid_set4DSTC10-AVSD.json) - contains question answer pairs 
  
-* mock_test_set4DSTC10-AVSD_from_DSTC7.json
+* **mock_test_set4DSTC10-AVSD_from_DSTC7.json**
 
   Mock Test text file from DSTC7 (mock_test_set4DSTC10-AVSD_from_DSTC7.json) - contains question answer pairs only from DSTC7-test set
 
-* mock_test_set4DSTC10-AVSD_from_DSTC8.json
+* **mock_test_set4DSTC10-AVSD_from_DSTC8.json**
   
   Mock Test text file from DSTC8 (mock_test_set4DSTC10-AVSD_from_DSTC8.json) - contains question answer pairs only from DSTC8-test set
   
