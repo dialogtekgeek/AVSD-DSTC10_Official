@@ -98,7 +98,7 @@ Mock Test text file from DSTC8 (mock_test_set4DSTC10-AVSD_from_DSTC8.json) - con
 
 ### 2. Audio feature files:
 
-[Download Audio features for AVSD-DSTC10 Here](https://drive.google.com/drive/folders/12Ri617jeV1XfMjcDQf5camyRXGrVW5u3?usp=sharing)
+[Download Audio features from DSTC7 Here](https://drive.google.com/drive/folders/12Ri617jeV1XfMjcDQf5camyRXGrVW5u3?usp=sharing)
 
 * Training and validation data sets  
    * vggish.tgz 
@@ -107,7 +107,7 @@ Mock Test text file from DSTC8 (mock_test_set4DSTC10-AVSD_from_DSTC8.json) - con
 
 ### 3. Visual feature files:
 
-[Download Visual features for AVSD-DSTC10 Here](https://drive.google.com/drive/folders/12R7OtjcXAgxZiFi2fOSG8miFiqi0ewL2?usp=sharing)
+[Download Visual features from DSTC7 Here](https://drive.google.com/drive/folders/12R7OtjcXAgxZiFi2fOSG8miFiqi0ewL2?usp=sharing)
 
 - Training and validation data sets:   
   - i3d_flow.tgz 
