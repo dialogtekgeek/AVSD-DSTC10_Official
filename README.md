@@ -73,11 +73,21 @@ You can download annotations set and the references for AVSD@DSTC10 from here:
   Training text files (train_set4DSTC10-AVSD.json) - Contains summary, caption, question answer pairs, action with its timestamps. 
    
 * valid_set4DSTC10-AVSD_with_action.json
+
+  Validation text file (valid_set4DSTC10-AVSD_with_action.json) - contains question answer pairs, action with its timestamps.
  
 * valid_set4DSTC10-AVSD.json
-* mock_test_set4DSTC10-AVSD_from_DSTC7.json
-* mock_test_set4DSTC10-AVSD_from_DSTC8.json
 
+  Validation text file (valid_set4DSTC10-AVSD.json) - contains question answer pairs 
+ 
+* mock_test_set4DSTC10-AVSD_from_DSTC7.json
+
+  Mock Test text file from DSTC7 (mock_test_set4DSTC10-AVSD_from_DSTC7.json) - contains question answer pairs only from DSTC7-test set
+
+* mock_test_set4DSTC10-AVSD_from_DSTC8.json
+  
+  Mock Test text file from DSTC8 (mock_test_set4DSTC10-AVSD_from_DSTC8.json) - contains question answer pairs only from DSTC8-test set
+  
 [Annotation Data Download here](https://github.com/dialogtekgeek/AVSD-DSTC10_Official/blob/main/AnswerGeneration_NoManualDescription_06_14_2021.zip) 
 
 OR
@@ -88,20 +98,6 @@ git clone https://github.com/dialogtekgeek/AVSD-DSTC10_Official/ and then
 cd AVSD-DSTC10_Official/
 unzip AnswerGeneration_NoManualDescription_06_14_2021.zip
 ```
-
-
-
-
-
-
-Validation text file (valid_set4DSTC10-AVSD_with_action.json) - contains question answer pairs, action with its timestamps. 
-
-Validation text file (valid_set4DSTC10-AVSD.json) - contains question answer pairs 
-
-Mock Test text file from DSTC7 (mock_test_set4DSTC10-AVSD_from_DSTC7.json) - contains question answer pairs only from DSTC7-test set
-
-Mock Test text file from DSTC8 (mock_test_set4DSTC10-AVSD_from_DSTC8.json) - contains question answer pairs only from DSTC8-test set
-
 
 ### 2. Audio feature files:
 
@@ -155,4 +151,4 @@ Links to the previous related AVSD track in DSTC7 and DSTC8 challenge:
 
 ### Task Organizers
 
-Ankit Shah, Shijie Geng, Peng Gao, Anoop Cherian Chiori Hori and Tim K. Marks
+Ankit Shah, Shijie Geng, Peng Gao, Anoop Cherian, Chiori Hori and Tim K. Marks
