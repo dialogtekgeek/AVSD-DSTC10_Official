@@ -64,7 +64,7 @@ Notes: The official challenge doesn't allow you to use the DSTC10 test set to tu
 *The number of turns for the test set is smaller than the validation
 because they are not always full dialogs.
 
-Please review the following information on how to download annotations set, feature representations and evaluation setup for AVSD@DSTC10 from here:
+Please review the following information on how to download annotations set, feature representations and evaluation setup for AVSD@DSTC10.
 
 ### 1. Text files:
 
