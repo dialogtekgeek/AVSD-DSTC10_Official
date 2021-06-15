@@ -39,8 +39,8 @@
 #### Task 2: Grounding Video QA dialog
     Goal: Answer reasoning temporal Localization 
 
-    To support answers needs to be shown without using manual descriptions. 
-    When a system answer “A dog is barking.”, the sound of the dog’s barking and
+    To support answers, evidence is required to be shown without using manual descriptions. 
+    When a system answer is “A dog is barking.”, the sound of the dog’s barking and
     the image of the dog should be provided as evidence.
     The localization of audiovisual evidence is required for each generated answers.
     To train reasoning localization, begin and end timing of evidences will be additionally provided for the training data.
@@ -51,7 +51,6 @@
  
 ##### Data Collection Method for Reasoning
 ![Data Collection for reasoning](https://github.com/dialogtekgeek/AVSD-DSTC10_Official/blob/main/Instruction_for_Reasoning.png)
-
 
 #### Validation data set:
 
@@ -127,7 +126,6 @@ unzip AnswerGeneration_NoManualDescription_06_14_2021.zip
 ```
 For the evaluation without caption using mock test set - the evaluation tool from DSTC7 and DSTC8 is provided here
 ```
-
 
 Although a new baseline system will be released soon, the old one is available from the following link:
 https://github.com/dialogtekgeek/AudioVisualSceneAwareDialog
