@@ -74,10 +74,10 @@ Please review the following information on how to download annotations set, feat
 ### 1. Text files:
 
 * **train_set4DSTC10-AVSD.json**
-  Training text files (train_set4DSTC10-AVSD.json) - Contains summary, caption, question answer pairs, action with its timestamps. 
+  Training text files (train_set4DSTC10-AVSD.json) - Contains summary, caption, question answer pairs, **action with its timestamps**. 
    
 * **valid_set4DSTC10-AVSD_with_action.json**
-  Validation text file (valid_set4DSTC10-AVSD_with_action.json) - contains question answer pairs, action with its timestamps.
+  Validation text file (valid_set4DSTC10-AVSD_with_action.json) - contains question answer pairs, **action with its timestamps**.
  
 * **valid_set4DSTC10-AVSD.json**
   Validation text file (valid_set4DSTC10-AVSD.json) - contains question answer pairs 
