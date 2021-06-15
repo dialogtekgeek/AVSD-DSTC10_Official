@@ -122,6 +122,10 @@ Mock Test text file from DSTC8 (mock_test_set4DSTC10-AVSD_from_DSTC8.json) - con
 
 - dstc7avsd_eval.tgz
 
+```
+For the evaluation without caption using mock test set - the evaluation tool from DSTC7 and DSTC8 is provided here
+```
+
 
 Although a new baseline system will be released soon, the old one is available from the following link:
 https://github.com/dialogtekgeek/AudioVisualSceneAwareDialog
@@ -137,6 +141,7 @@ Links to the previous related AVSD track in DSTC7 and DSTC8 challenge:
 [AVSD DSTC7 GitHub link](https://github.com/hudaAlamri/DSTC7-Audio-Visual-Scene-Aware-Dialog-AVSD-Challenge)
 
 [AVSD DSTC8 GitHub Link](https://github.com/dialogtekgeek/DSTC8-AVSD_official)
+
 
 ### - Contact Information
 [Chiori Hori](chori@merl.com) & [Ankit Shah](aps1@andrew.cmu.edu)
