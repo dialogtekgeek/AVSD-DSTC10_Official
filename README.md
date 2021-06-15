@@ -14,9 +14,11 @@
     The temporal localization for answers needs to be detected in DSTC10.
     
 ## Challenge schedule
+
     June 14th, 2021: Answer generation data release
     June 30th, 2021: Answer reasoning temporal localization data and baseline release
-                     **releasing to registrants only**
+   **releasing to registrants only**
+    
     September 13th, 2021: Test Data release
     September 21st 2021: Test Submission due
     November 1st 2021: Challenge paper submission due
