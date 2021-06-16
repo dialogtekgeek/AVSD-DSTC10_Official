@@ -52,7 +52,7 @@
     b. Any publicly available data and pre-trained models may also be used for training as a sub task.
  
 ##### Data Collection Method for Reasoning
-![Data Collection for reasoning](https://github.com/dialogtekgeek/AVSD-DSTC10_Official/blob/main/Instruction_for_Reasoning.png)
+![Data Collection for reasoning](https://github.com/dialogtekgeek/AVSD-DSTC10_Official/blob/main/InstructionforReasoning.png)
 
 #### Validation data set:
 
