@@ -54,6 +54,13 @@
 ##### Data Collection Method for Reasoning
 ![Data Collection for reasoning](https://github.com/dialogtekgeek/AVSD-DSTC10_Official/blob/main/InstructionForReasoning.png)
 
+## Data set:
+    Video dat: CHARADES for human action recognition datasets.
+        https://allenai.org/plato/charades/
+   
+        *The original videos of the test sets of the official Charades Challenge
+          http://ai2-website.s3.amazonaws.com/data/Charades_vu17_test.tar
+
 #### Validation data set:
 
 Please train models using the training data set only.
