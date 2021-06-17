@@ -144,6 +144,10 @@ Links to the previous related AVSD track in DSTC7 and DSTC8 challenge:
 
 [AVSD DSTC8 GitHub Link](https://github.com/dialogtekgeek/DSTC8-AVSD_official)
 
+#### Video Data from Charades dataset
+Video data: CHARADES for human action recognition datasets.
+https://allenai.org/plato/charades/
+
 
 ### - Contact Information
 [Chiori Hori](mailto:chori@merl.com) & [Ankit Shah](mailto:aps1@andrew.cmu.edu)
