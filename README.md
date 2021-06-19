@@ -26,9 +26,9 @@
 
 ## Task definition
 #### Task 1: Video QA dialog
-    Goal: Answer generation without using manual descripitions for inference
+    Goal: Answer generation without using manual descriptions for inference
     You can train models using manual descriptions but CANNOT use them for testing. 
-    Video description capability needs to be emebedded within the answer generation models.
+    Video description capability needs to be embedded within the answer generation models.
     
     Data conditions:
     a. Use the provided video including audio and video features, 
