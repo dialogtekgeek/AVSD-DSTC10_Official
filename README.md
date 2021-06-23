@@ -2,6 +2,13 @@
   Audio Visual Scene-Aware Dialog (AVSD) Challenge at the 10th Dialog System Technology Challenge (DSTC)
   [https://sites.google.com/dstc.community/dstc10](https://sites.google.com/dstc.community/dstc10)
 
+
+## News
+
+    Please register from here:
+    https://docs.google.com/forms/d/e/1FAIpQLSe9CgrlygYciIZH_pK8133fbp1kqigTB6JIP7utfNFx_xSm6A/viewform
+
+
 ## Goal: Reasoning for Audio Visual Scene-Aware Dialog
 
     The task setup for the previous challenges in DSTC7 and DSTC8 allowed the participants 
