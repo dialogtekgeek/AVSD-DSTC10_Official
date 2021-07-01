@@ -5,6 +5,8 @@
 
 ## News
 
+    The baseline system and the validation data for reasoning timing will be released soon.
+    
     Please register from here:
     https://docs.google.com/forms/d/e/1FAIpQLSe9CgrlygYciIZH_pK8133fbp1kqigTB6JIP7utfNFx_xSm6A/viewform
 
@@ -23,8 +25,9 @@
 ## Challenge schedule
 
     June 14th, 2021: Answer generation data release
-    June 30th, 2021: Answer reasoning temporal localization data and baseline release
-   **Releasing answer reasoning to registrants only**
+    June 30th, 2021: Answer reasoning temporal localization data and baseline release: 
+       Sorry for delay. Coming soon!
+       **Releasing answer reasoning to registrants only**
   
     September 13th, 2021: Test Data release
     September 21st 2021: Test Submission due
