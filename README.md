@@ -169,6 +169,16 @@ Please use the evaluation package in the DSTC10 official baseline system.
 
 
 ### - Contact Information
+
+#### Join the DSTC mailing list to get the latest updates about DSTC10
+* To join the mailing list: visit https://groups.google.com/a/dstc.community/forum/#!forum/list/join
+
+* To post a message: send your message to list@dstc.community
+
+* To leave the mailing list: visit https://groups.google.com/a/dstc.community/forum/#!forum/list/unsubscribe
+
+#### DSTC10 Task4 specific inquiries 
+
 [Chiori Hori](mailto:chori@merl.com) & [Ankit Shah](mailto:aps1@andrew.cmu.edu)
 
 ### Task Organizers
