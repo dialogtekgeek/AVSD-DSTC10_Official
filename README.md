@@ -100,11 +100,11 @@ Please review the following information on how to download annotations set, feat
 * **valid_set4DSTC10-AVSD.json**
   Validation text file (valid_set4DSTC10-AVSD.json) - contains question answer pairs 
  
-* **mock_test_set4DSTC10-AVSD_from_DSTC7.json**
-  Mock Test text file from DSTC7 (mock_test_set4DSTC10-AVSD_from_DSTC7.json) - contains question answer pairs only from DSTC7-test set
+* **mock_test_set4DSTC10-AVSD_from_DSTC7_singref.json**
+  Mock Test text file from DSTC7 (mock_test_set4DSTC10-AVSD_from_DSTC7_singref.json) - contains question answer pairs only from DSTC7-test set
 
-* **mock_test_set4DSTC10-AVSD_from_DSTC8.json**
-  Mock Test text file from DSTC8 (mock_test_set4DSTC10-AVSD_from_DSTC8.json) - contains question answer pairs only from DSTC8-test set
+* **mock_test_set4DSTC10-AVSD_from_DSTC8_singref.json**
+  Mock Test text file from DSTC8 (mock_test_set4DSTC10-AVSD_from_DSTC8_singref.json) - contains question answer pairs only from DSTC8-test set
   
 [Annotation Data Download here](https://github.com/dialogtekgeek/AVSD-DSTC10_Official/blob/main/AnswerGeneration_NoManualDescription_06_14_2021.zip) 
 
