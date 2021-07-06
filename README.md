@@ -166,7 +166,7 @@ GitHub_Link:
    [AVSD DSTC8 GitHub Link](https://github.com/dialogtekgeek/DSTC8-AVSD_official)
 
 #### Task 2. Reasoning Video QA dialog: Answer generation with reasoning timing using single answer
-Please use the elvuation package in the DSTC10 official baseline system.
+Please use the evaluation package in the DSTC10 official baseline system.
 
 
 ### - Contact Information
