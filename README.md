@@ -48,7 +48,7 @@
 
     b. Publicly available external data and pre-trained models may also be used for training as a sub task
 
-#### Task 2: Grounding Video QA dialog
+#### Task 2: Reasoning Video QA dialog
     Goal: Answer reasoning temporal Localization 
 
     To support answers, evidence is required to be shown without using manual descriptions. 
@@ -64,7 +64,7 @@
 ##### Data Collection Method for Reasoning
 ![Data Collection for reasoning](https://github.com/dialogtekgeek/AVSD-DSTC10_Official/blob/main/InstructionForReasoning.png)
 
-## Data set:
+## Data set: Video Data from Charades dataset
     Video dat: CHARADES for human action recognition datasets.
         https://allenai.org/plato/charades/
    
@@ -73,7 +73,6 @@
           https://ai2-public-datasets.s3-us-west-2.amazonaws.com/charades/Charades_vu17_test_480.tar [2Gb]
 
 #### Validation data set:
-
 Please train models using the training data set only.
 You can tune the parameters using the validation set and confirm the performance of your systems using the DSTC10 test sets.
 Notes: The official challenge doesn't allow you to use the DSTC10 test set to tune your models.
@@ -137,34 +136,32 @@ unzip AnswerGeneration_NoManualDescription_06_14_2021.zip
   - i3d_flow_testset.tgz
   - i3d_rgb_testset.tgz
 
-### 4. DSTC10 evaluation setup
+### 4. DSTC10 evaluation setup for Mock
 
+#### DSTC10 official baseline system
+Download DSTC10 baseline system from here:
+
+#### Task 1. Video QA dialog: Answer generation evaluation using multiple answers
 [Download DSTC7 Evaluation for mock test set Here](https://drive.google.com/file/d/19Jmm4HNXSwcg-sL7jktlCalakPCIhnxm/view?usp=sharing )
-
 - dstc7avsd_eval.tgz
 
 ```
-For the evaluation without caption using mock test set - the evaluation tool from DSTC7 and DSTC8 is provided here
+For the evaluation using mock test set where the "__UNDISCLOSED__" needs to be replaced by your system answers
+- the evaluation tool from DSTC7 and DSTC8 is provided here
 ```
-
-Although a new baseline system will be released soon, the old one is available from the following link:
+The baseline system for DSTC7 and DSTC8 is available from the following link:
 https://github.com/dialogtekgeek/AudioVisualSceneAwareDialog
 
 You can find more information in the following DSTC7-AVSD overview paper:
 http://workshop.colips.org/dstc7/papers/DSTC10_Task_3_overview_paper.pdf
 
-You can find more information in the following DSTC10-AVSD overview paper:
-https://drive.google.com/file/d/1Di_BbKZrigp3auma4qKtIgVsdgsniOrs/view
 
 Links to the previous related AVSD track in DSTC7 and DSTC8 challenge: 
+    [AVSD DSTC7 GitHub link](https://github.com/hudaAlamri/DSTC7-Audio-Visual-Scene-Aware-Dialog-AVSD-Challenge)
+    [AVSD DSTC8 GitHub Link](https://github.com/dialogtekgeek/DSTC8-AVSD_official)
 
-[AVSD DSTC7 GitHub link](https://github.com/hudaAlamri/DSTC7-Audio-Visual-Scene-Aware-Dialog-AVSD-Challenge)
-
-[AVSD DSTC8 GitHub Link](https://github.com/dialogtekgeek/DSTC8-AVSD_official)
-
-#### Video Data from Charades dataset
-Video data: CHARADES for human action recognition datasets.
-https://allenai.org/plato/charades/
+#### Task 2. Reasoning Video QA dialog: Answer generation with reasoning timing using single answer
+Please use the elvuation package in the DSTC10 official baseline system.
 
 
 ### - Contact Information
