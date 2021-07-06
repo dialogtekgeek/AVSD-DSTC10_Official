@@ -7,8 +7,7 @@
 
 The baseline system and the validation data for reasoning timing will be released soon.
     
-**** Please register from here ****
-    https://docs.google.com/forms/d/e/1FAIpQLSe9CgrlygYciIZH_pK8133fbp1kqigTB6JIP7utfNFx_xSm6A/viewform
+### Please [Register HERE](https://docs.google.com/forms/d/e/1FAIpQLSe9CgrlygYciIZH_pK8133fbp1kqigTB6JIP7utfNFx_xSm6A/viewform) for participating in the challenge
 
 
 ## Goal: Reasoning for Audio Visual Scene-Aware Dialog
