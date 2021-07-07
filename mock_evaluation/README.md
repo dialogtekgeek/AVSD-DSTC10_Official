@@ -5,7 +5,7 @@
 Download DSTC10 baseline system from here:
 GitHub_Link:
 
-#### Task 1. Video QA dialog: Answer generation evaluation using multiple answers
+#### Task 1. Video QA dialog: Answer generation evaluation using single ground truth
 [Download DSTC7 Evaluation for mock test set here](https://drive.google.com/file/d/19Jmm4HNXSwcg-sL7jktlCalakPCIhnxm/view?usp=sharing)
 - dstc7avsd_eval.tgz
 
@@ -16,6 +16,9 @@ GitHub_Link:
    For the evaluation using mock test set where the "__UNDISCLOSED__" needs to be replaced by your system answers
    - the evaluation tool from DSTC7 and DSTC8 is provided here
    ```
+   
+   ### DSTC7 and DSTC8 used multiple ground truth but DSTC10 will use single ground truth and human judgement
+   
    The baseline system for DSTC7 and DSTC8 is available from the following link:
    https://github.com/dialogtekgeek/AudioVisualSceneAwareDialog
 
@@ -30,4 +33,6 @@ GitHub_Link:
 
 #### Task 2. Reasoning Video QA dialog: Answer generation with reasoning timing using single answer
 Please use the evaluation package in the DSTC10 official baseline system.
+
+The evaluation will be done 
 
