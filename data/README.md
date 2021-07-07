@@ -1,8 +1,5 @@
 
-##### Data Collection Method for Reasoning
-![Data Collection for reasoning](https://github.com/dialogtekgeek/AVSD-DSTC10_Official/blob/main/InstructionForReasoning.png)
-
-## Data set: Video Data from Charades dataset
+# Data set: Video Data from Charades dataset
     Video dat: CHARADES for human action recognition datasets.
         https://allenai.org/plato/charades/
    
@@ -10,7 +7,7 @@
           https://ai2-public-datasets.s3-us-west-2.amazonaws.com/charades/Charades_vu17_test.tar [13Gb]
           https://ai2-public-datasets.s3-us-west-2.amazonaws.com/charades/Charades_vu17_test_480.tar [2Gb]
 
-#### Validation data set:
+# Validation data set:
 Please train models using the training data set only.
 You can tune the parameters using the validation set and confirm the performance of your systems using the DSTC10 test sets.
 Notes: The official challenge doesn't allow you to use the DSTC10 test set to tune your models.
@@ -26,7 +23,9 @@ because they are not always full dialogs.
 
 Please review the following information on how to download annotations set, feature representations and evaluation setup for AVSD@DSTC10.
 
-### 1. Text files:
+
+# Data release
+## 1. Text files:
 
 * **train_set4DSTC10-AVSD.json**
   Training text files (train_set4DSTC10-AVSD.json) - Contains summary, caption, question answer pairs, **action with its timestamps**. 
@@ -54,7 +53,7 @@ cd AVSD-DSTC10_Official/
 unzip AnswerGeneration_NoManualDescription_06_14_2021.zip
 ```
 
-### 2. Audio feature files:
+## 2. Audio feature files:
 
 [Download Audio features from DSTC7 Here](https://drive.google.com/drive/folders/12Ri617jeV1XfMjcDQf5camyRXGrVW5u3?usp=sharing)
 
@@ -63,7 +62,7 @@ unzip AnswerGeneration_NoManualDescription_06_14_2021.zip
 * Test set:
    * vggish_testset.tgz: 
 
-### 3. Visual feature files:
+## 3. Visual feature files:
 
 [Download Visual features from DSTC7 Here](https://drive.google.com/drive/folders/12R7OtjcXAgxZiFi2fOSG8miFiqi0ewL2?usp=sharing)
 
@@ -74,13 +73,13 @@ unzip AnswerGeneration_NoManualDescription_06_14_2021.zip
   - i3d_flow_testset.tgz
   - i3d_rgb_testset.tgz
 
-### 4. DSTC10 evaluation setup for Mock
+## 4. DSTC10 evaluation setup for Mock
 
-#### DSTC10 official baseline system
+### DSTC10 official baseline system
 Download DSTC10 baseline system from here:
 GitHub_Link:
 
-#### Task 1. Video QA dialog: Answer generation evaluation using multiple answers
+### Task 1. Video QA dialog: Answer generation evaluation using single ground truth
 [Download DSTC7 Evaluation for mock test set here](https://drive.google.com/file/d/19Jmm4HNXSwcg-sL7jktlCalakPCIhnxm/view?usp=sharing)
 - dstc7avsd_eval.tgz
 
@@ -99,12 +98,13 @@ GitHub_Link:
 
    Links to the previous related AVSD track in DSTC7 and DSTC8 challenge: 
    
-   
    [AVSD DSTC7 GitHub link](https://github.com/hudaAlamri/DSTC7-Audio-Visual-Scene-Aware-Dialog-AVSD-Challenge)
    
    [AVSD DSTC8 GitHub Link](https://github.com/dialogtekgeek/DSTC8-AVSD_official)
 
-#### Task 2. Reasoning Video QA dialog: Answer generation with reasoning timing using single answer
+### Task 2. Reasoning Video QA dialog: Answer generation with reasoning timing using single answer
 Please use the evaluation package in the DSTC10 official baseline system.
 
+##### Data Collection Method for Reasoning
+![Data Collection for reasoning](https://github.com/dialogtekgeek/AVSD-DSTC10_Official/blob/main/InstructionForReasoning.png)
 
