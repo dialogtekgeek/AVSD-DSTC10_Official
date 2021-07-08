@@ -42,7 +42,7 @@ Please review the following information on how to download annotations set, feat
 * **mock_test_set4DSTC10-AVSD_from_DSTC8_singref.json**
   Mock Test text file from DSTC8 (mock_test_set4DSTC10-AVSD_from_DSTC8_singref.json) - contains question answer pairs only from DSTC8-test set
   
-[Download text files from Here](https://drive.google.com/file/d/1zQkAFUeYy2vovE6G0ihguAbdiRoeDJAb/view?usp=sharing)
+[Download text files from Here](https://drive.google.com/drive/folders/13UgQz0cUkLrqOQt225PrivjmgdjUPLY8?usp=sharing )
 
 
 ## 2. Audio feature files:
