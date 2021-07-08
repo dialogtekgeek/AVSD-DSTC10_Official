@@ -1,4 +1,4 @@
-## Audio Visual Transformer-based Reasoning AVSD baseline system: 
+## Audio Visual Transformer-based AVSD Baseline System: 
 Please get it from [HERE](https://github.com/ankitshah009/AVSD-DSTC10_baseline)
 
 ### Notes:
