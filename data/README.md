@@ -44,7 +44,6 @@ Please review the following information on how to download annotations set, feat
   
 [Download text files from Here](https://drive.google.com/file/d/1zQkAFUeYy2vovE6G0ihguAbdiRoeDJAb/view?usp=sharing)
 
-```
 
 ## 2. Audio feature files:
 
