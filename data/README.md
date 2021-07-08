@@ -42,15 +42,8 @@ Please review the following information on how to download annotations set, feat
 * **mock_test_set4DSTC10-AVSD_from_DSTC8_singref.json**
   Mock Test text file from DSTC8 (mock_test_set4DSTC10-AVSD_from_DSTC8_singref.json) - contains question answer pairs only from DSTC8-test set
   
-[Annotation Data Download here](https://github.com/dialogtekgeek/AVSD-DSTC10_Official/blob/main/AnswerGeneration_NoManualDescription_06_14_2021.zip) 
+[Download text files from Here](https://drive.google.com/file/d/1zQkAFUeYy2vovE6G0ihguAbdiRoeDJAb/view?usp=sharing)
 
-OR
-
-```
-You can do a git clone of this repository
-git clone https://github.com/dialogtekgeek/AVSD-DSTC10_Official/ and then 
-cd AVSD-DSTC10_Official/
-unzip AnswerGeneration_NoManualDescription_06_14_2021.zip
 ```
 
 ## 2. Audio feature files:
