@@ -76,7 +76,7 @@ The baseline system and the validation data for reasoning timing will be release
 
 #### DSTC10 Task4 specific inquiries 
 
-[Chiori Hori](mailto:chori@merl.com) & [Ankit Shah](mailto:aps1@andrew.cmu.edu)
+AVSD@DSTC10 Organizer: [Chiori Hori](mailto:chori@merl.com) & [Ankit Shah](mailto:aps1@andrew.cmu.edu)
 
 ### Task Organizers
 
