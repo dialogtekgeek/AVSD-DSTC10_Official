@@ -69,21 +69,34 @@ The baseline system and the validation data for reasoning timing will be release
 ## Data Collection Method for Reasoning
 ![Data Collection for reasoning](https://github.com/dialogtekgeek/AVSD-DSTC10_Official/blob/main/InstructionForReasoning.png)
 
+## Baseline system
+The baseline system is based on Audio Visual Transformer for dialogue response sentence generation. <BR>
+Information on gaining access to baseline is [HERE](https://github.com/ankitshah009/AVSD-DSTC10_baseline)
+(Registration is required.)
+  
+    Output: 
+    Answer generation considering dialog context <BR>
+    Evidence timing detection based on attention weights 
+  
+    Evaluation: 
+    Validation data (1,787) was evaluated using “single” Answer and Evidence timing <BR>
+    Sentence similarity: BLEU, METEOR, CIDEr <BR>
+    Timing overlap: Intersection over Union (IoU)  
+    Official evaluation: 
+      - Likert scale by 5 humans 
+      - Similarity compared with single and multiple ground truths 
 
+    Additional Data:  
+    <b> Evidence timing for Training data (7,659)</B> will be provided soon. 
 
 ### - Contact Information
-
 #### Join the DSTC mailing list to get the latest updates about DSTC10
 * To join the mailing list: visit https://groups.google.com/a/dstc.community/forum/#!forum/list/join
-
 * To post a message: send your message to list@dstc.community
-
 * To leave the mailing list: visit https://groups.google.com/a/dstc.community/forum/#!forum/list/unsubscribe
 
 #### DSTC10 Task4 specific inquiries 
-
 AVSD@DSTC10 Organizer: [Chiori Hori](mailto:chori@merl.com) & [Ankit Shah](mailto:aps1@andrew.cmu.edu)
 
 ### Task Organizers
-
 Ankit Shah, Shijie Geng, Peng Gao, Anoop Cherian, Chiori Hori and Tim K. Marks
