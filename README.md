@@ -61,7 +61,7 @@ The baseline system and the validation data for reasoning timing will be release
     b. Any publicly available data and pre-trained models may also be used for training as a sub task.
     
     
-## Evaluation: 
+## Evaluation
     Likert scale by 5 humans + Similarity compared with single and multiple ground truths
     Intersection over Union (IoU) by comparing with “single” Evidence timing 
 
