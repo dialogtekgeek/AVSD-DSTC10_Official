@@ -21,15 +21,15 @@ The baseline system and the validation data for reasoning timing will be release
     In this challenge, we seek evidence from the system to support the generated answer 
     via detecting the temporal segments in the videos corresponding to the answer.
     
-## Challenge schedule
+## Schedule
 
     June 14th, 2021: Answer generation data release
     June 30th, 2021: Answer reasoning temporal localization data and baseline release: 
-       Sorry for delay. Coming soon!
-       **Releasing answer reasoning to registrants only**
+       **Releasing  AVSD@DSTC10 registrants only**
   
     September 13th, 2021: Test Data release
     September 21st 2021: Test Submission due
+    
     November 1st 2021: Challenge paper submission due
     January or February, 2022: Workshop
 
@@ -59,8 +59,14 @@ The baseline system and the validation data for reasoning timing will be release
     Data conditions:
     a. Temporal localization information for answer reasoning is provided as begin and end timestamps showing evidence scenes
     b. Any publicly available data and pre-trained models may also be used for training as a sub task.
- 
-##### Data Collection Method for Reasoning
+    
+    
+## Evaluation: 
+    Likert scale by 5 humans + Similarity compared with single and multiple ground truths
+    Intersection over Union (IoU) by comparing with “single” Evidence timing 
+
+    
+## Data Collection Method for Reasoning
 ![Data Collection for reasoning](https://github.com/dialogtekgeek/AVSD-DSTC10_Official/blob/main/InstructionForReasoning.png)
 
 
