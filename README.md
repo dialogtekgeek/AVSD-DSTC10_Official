@@ -75,19 +75,19 @@ Information on gaining access to baseline is [HERE](https://github.com/ankitshah
 (Registration is required.)
   
     Output: 
-    Answer generation considering dialog context <BR>
+    Answer generation considering dialog context 
     Evidence timing detection based on attention weights 
   
     Evaluation: 
-    Validation data (1,787) was evaluated using “single” Answer and Evidence timing <BR>
-    Sentence similarity: BLEU, METEOR, CIDEr <BR>
+    Validation data (1,787) was evaluated using “single” Answer and Evidence timing 
+    Sentence similarity: BLEU, METEOR, CIDEr 
     Timing overlap: Intersection over Union (IoU)  
     Official evaluation: 
       - Likert scale by 5 humans 
       - Similarity compared with single and multiple ground truths 
 
     Additional Data:  
-    <b> Evidence timing for Training data (7,659)</B> will be provided soon. 
+    Evidence timing for Training data (7,659) will be provided soon. 
 
 ### - Contact Information
 #### Join the DSTC mailing list to get the latest updates about DSTC10
