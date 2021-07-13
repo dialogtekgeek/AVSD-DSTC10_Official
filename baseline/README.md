@@ -4,7 +4,7 @@
 ### Notes:
 This package is available only for AVSD@DSTC10 Challengers now. <BR>
 We require DSTC10 registration first from [HERE](https://docs.google.com/forms/d/e/1FAIpQLSe9CgrlygYciIZH_pK8133fbp1kqigTB6JIP7utfNFx_xSm6A/viewform). <br>
-and [Access form HERE](https://docs.google.com/forms/d/e/1FAIpQLSfTwXLrzrtgu-KOVnAAu4OiCdtPDmV24pJQZS9l08xsXFjXPA/viewform)
+And then access the AVSD basline system form [HERE](https://docs.google.com/forms/d/e/1FAIpQLSfTwXLrzrtgu-KOVnAAu4OiCdtPDmV24pJQZS9l08xsXFjXPA/viewform)
 * According to your registration, we will invite you to the baseline GitHub repository.
 
 This will be publicly available when DSTC10's activity will be finished (04/2022)
