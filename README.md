@@ -6,9 +6,9 @@
 ## News
 
 The baseline system and the validation data for reasoning timing is now releasing.
-Get access from [HERE](https://docs.google.com/forms/d/1dDy00UzW66u1V8x8flLsJKbpDQNuqpzaE-Zm_AClSac/prefill).
+After register DSTC10 and get access from [HERE](https://docs.google.com/forms/d/1dDy00UzW66u1V8x8flLsJKbpDQNuqpzaE-Zm_AClSac/prefill).
 
-### Please [Register HERE](https://docs.google.com/forms/d/e/1FAIpQLSe9CgrlygYciIZH_pK8133fbp1kqigTB6JIP7utfNFx_xSm6A/viewform) for participating in the challenge
+### Please [Register HERE](https://docs.google.com/forms/d/e/1FAIpQLSe9CgrlygYciIZH_pK8133fbp1kqigTB6JIP7utfNFx_xSm6A/viewform) for participating in the DSTC10 challenge
 
 
 ## Goal: Reasoning for Audio Visual Scene-Aware Dialog
