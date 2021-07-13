@@ -6,7 +6,7 @@
 ## News
 
 The baseline system and the validation data for reasoning timing is now releasing. <br>
-After register DSTC10 and get access from [HERE]().
+After register DSTC10 and get access from [HERE](https://docs.google.com/forms/d/e/1FAIpQLSfTwXLrzrtgu-KOVnAAu4OiCdtPDmV24pJQZS9l08xsXFjXPA/viewform).
 
 ### Please [Register HERE](https://docs.google.com/forms/d/e/1FAIpQLSe9CgrlygYciIZH_pK8133fbp1kqigTB6JIP7utfNFx_xSm6A/viewform) for participating in the DSTC10 challenge
 
