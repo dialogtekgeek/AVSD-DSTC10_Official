@@ -8,7 +8,6 @@
           https://ai2-public-datasets.s3-us-west-2.amazonaws.com/charades/Charades_vu17_test_480.tar [2Gb]
 
 # Validation data set:
-Please train models using the training data set only for the Closed condition. Any publicly available training data and/or models can be used for the Open condition. 
 
 You can tune the parameters using the validation set and confirm the performance of your systems using the DSTC10 test sets.
 Notes: The official challenge doesn't allow you to use the DSTC10 test set to tune your models.
