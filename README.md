@@ -6,13 +6,15 @@
 ## News
 
 ### System submission site is now open: 
-   https://docs.google.com/forms/d/e/1FAIpQLSe6FNXNhpb-VjiILamx6EjR_ducdRLgnP9keh2fa-Q8WvrcJQ/viewform
-   To upload your files, please use your google account.
+    https://docs.google.com/forms/d/e/1FAIpQLSe6FNXNhpb-VjiILamx6EjR_ducdRLgnP9keh2fa-Q8WvrcJQ/viewform
+    To upload your files, please use your google account.
 
-The baseline system and the validation data for reasoning timing is now releasing. <br>
-After register DSTC10 and then get the baseline system from [HERE](https://docs.google.com/forms/d/e/1FAIpQLSeTQYoIz_caYHg59VAd18ypkI_9nfGvzrI6N6bq6wiT2c2SEw/viewform)
+### The baseline system and the validation data for reasoning timing is now releasing.
+    After register DSTC10 and then get the baseline system from [HERE]       
+    (https://docs.google.com/forms/d/e/1FAIpQLSeTQYoIz_caYHg59VAd18ypkI_9nfGvzrI6N6bq6wiT2c2SEw/viewform)
 
-### Please [Register HERE](https://docs.google.com/forms/d/e/1FAIpQLSe9CgrlygYciIZH_pK8133fbp1kqigTB6JIP7utfNFx_xSm6A/viewform) for participating in the DSTC10 challenge
+### Please [Register HERE]
+    (https://docs.google.com/forms/d/e/1FAIpQLSe9CgrlygYciIZH_pK8133fbp1kqigTB6JIP7utfNFx_xSm6A/viewform) for participating in the DSTC10 challenge
 
 
 ## Goal: Reasoning for Audio Visual Scene-Aware Dialog
