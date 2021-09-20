@@ -5,6 +5,9 @@
 
 ## News
 
+## System submission site is now open: 
+https://docs.google.com/forms/d/e/1FAIpQLSe6FNXNhpb-VjiILamx6EjR_ducdRLgnP9keh2fa-Q8WvrcJQ/viewform
+
 The baseline system and the validation data for reasoning timing is now releasing. <br>
 After register DSTC10 and then get the baseline system from [HERE](https://docs.google.com/forms/d/e/1FAIpQLSeTQYoIz_caYHg59VAd18ypkI_9nfGvzrI6N6bq6wiT2c2SEw/viewform)
 
