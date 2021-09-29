@@ -33,7 +33,7 @@ After register DSTC10 and then get the baseline system from [HERE](https://docs.
        **Releasing  AVSD@DSTC10 registrants only**
   
     September 13th, 2021: Test Data release
-    September 21st 2021: Test Submission due
+    September 21st 2021: Test Submission due　-> 28th
     
     November 1st 2021: Challenge paper submission due
     January or February, 2022: Workshop
