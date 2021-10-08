@@ -1,11 +1,10 @@
 ## Audio Visual Transformer-based AVSD@DSTC10 Baseline System: 
    Please get it from [HERE](https://github.com/ankitshah009/AVSD-DSTC10_baseline)
 
-
 @ixxxx{ankit@arxiv,
         title={AUDIO-VISUAL SCENE-AWARE DIALOG AND REASONING USINGAUDIO-VISUAL TRANSFORMERS WITH JOINT STUDENT-TEACHER LEARNING},
         author={Ankit Shah, Shijie Geng, Peng Gao, Anoop Cherian, Takaaki Hori, Tim K. Marks, Jonathan Le Roux, Chiori Hori},
-        booktitle={Accepted to DSTC10},
+        booktitle={arXiv},
         year={2021}
 }
 
