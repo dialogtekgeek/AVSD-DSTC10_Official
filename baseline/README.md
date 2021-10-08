@@ -12,7 +12,10 @@ Please refer this paper if you use the baseline system for AVSD@DSTC10.
 
 The samples for reasoning are shown below:
 
-
+    SAMPLE
+    SAMPLE
+    SAMPLE
+    
 ### Notes:
 This package is available only for AVSD@DSTC10 Challengers now. <BR>
 We require DSTC10 registration first from [HERE](https://docs.google.com/forms/d/e/1FAIpQLSe9CgrlygYciIZH_pK8133fbp1kqigTB6JIP7utfNFx_xSm6A/viewform). <br>
