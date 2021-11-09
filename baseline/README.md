@@ -3,18 +3,15 @@
 
 Please refer this paper if you use the baseline system for AVSD@DSTC10.
 
-    @ixxxx{ankit@arxiv,
-            title={AUDIO-VISUAL SCENE-AWARE DIALOG AND REASONING USING AUDIO-VISUAL TRANSFORMERS WITH JOINT STUDENT-TEACHER LEARNING},
-            author={Ankit Shah, Shijie Geng, Peng Gao, Anoop Cherian, Takaaki Hori, Tim K. Marks, Jonathan Le Roux, Chiori Hori},
-            booktitle={arXiv},
-            year={2021}
-    }
+@article{shah2021audio,
+  title={Audio-Visual Scene-Aware Dialog and Reasoning using Audio-Visual Transformers with Joint Student-Teacher Learning},
+  author={Shah, Ankit P and Geng, Shijie and Gao, Peng and Cherian, Anoop and Hori, Takaaki and Marks, Tim K and Roux, Jonathan Le and Hori, Chiori},
+  journal={arXiv preprint arXiv:2110.06894},
+  year={2021}
+}
 
 The samples for reasoning are shown below:
 
-    SAMPLE
-    SAMPLE
-    SAMPLE
     
 ### Notes:
 This package is available only for AVSD@DSTC10 Challengers now. <BR>
