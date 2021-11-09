@@ -9,7 +9,7 @@ The baseline system for AVSD@DSTC10 are included in the following paper:
         journal={ICASSP2022 submitted},
         year={2022}
     }
-    The samples for reasoning are shown here: https://dialogtekgeek.com/AVSD_DSTC10/reasoning_viewer_sample.pdf
+    The samples for reasoning are shown [here](https://dialogtekgeek.com/AVSD_DSTC10/reasoning_viewer_sample.pdf)
 
     
 ### Notes:
