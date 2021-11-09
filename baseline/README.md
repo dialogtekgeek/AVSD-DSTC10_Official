@@ -2,7 +2,8 @@
    Please get it from [HERE](https://github.com/ankitshah009/AVSD-DSTC10_baseline)
 
 The baseline system for AVSD@DSTC10 are included in the following paper (ICASSP2022 submitted):
-    The samples for reasoning are shown [HERE](https://dialogtekgeek.com/AVSD_DSTC10/reasoning_viewer_sample.pdf)
+
+The samples for reasoning are shown [HERE](https://dialogtekgeek.com/AVSD_DSTC10/reasoning_viewer_sample.pdf)
 
     @article{shah2021audio@ICASSP2022,
         title={Audio-Visual Scene-Aware Dialog and Reasoning using Audio-Visual Transformers with Joint Student-Teacher Learning},
