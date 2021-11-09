@@ -9,8 +9,8 @@ The baseline system for AVSD@DSTC10 includes the following paper:
         journal={ICASSP2022 submitted},
         year={2022}
     }
+    The samples for reasoning are shown below: 
 
-The samples for reasoning are shown below:
 
     
 ### Notes:
