@@ -2,10 +2,7 @@
 # Data set: Video Data from Charades dataset
     Video dat: CHARADES for human action recognition datasets.
         https://allenai.org/plato/charades/
-   
-        *The original videos of the test sets of the official Charades Challenge
-          https://ai2-public-datasets.s3-us-west-2.amazonaws.com/charades/Charades_vu17_test.tar [13Gb]
-          https://ai2-public-datasets.s3-us-west-2.amazonaws.com/charades/Charades_vu17_test_480.tar [2Gb]
+  
 
 # Validation data set:
 
