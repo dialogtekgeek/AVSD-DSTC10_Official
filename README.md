@@ -4,6 +4,7 @@
 
 
 ## News
+The challenge setup for AVSD-DSTC10 is available: https://github.com/ankitshah009/AVSD-DSTC10_baseline
 
 #### System submission site is now open: 
     https://docs.google.com/forms/d/e/1FAIpQLSe6FNXNhpb-VjiILamx6EjR_ducdRLgnP9keh2fa-Q8WvrcJQ/viewform
